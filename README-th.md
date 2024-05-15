@@ -67,6 +67,7 @@ __มหาวิทยาลัยเทคโนโลยีราชมงค
 
 ## ผลงานทางวิชาการ
 
+* ORCID ID: [0000-0001-9296-9094](https://orcid.org/0000-0001-9296-9094)
 <!-- A list is also available [online](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=Songrit+srilasak&btnG=) -->
 <!-- A list is also available [online](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=Songrit+kitisriworapan&btnG=) -->
 ### วารสาร
