@@ -29,8 +29,20 @@ __eGuide(Thailand)__, Thailand
 ### Specialized in
 
 Authentication protocol, Privacy protection system, Rogue detection, networks security
-
+### Academic Services
+* Nakhon Phanom University Data Protection Committee (Term 2024-2027)
+ * Chairs of the Subcommittee on Cookie Policy
+ * Chairs of the Subcommittee on Drafting Information Security Policies of Nakhon Phanom University
+  
 ### Teaching
+
+#### 2024
+- [229](https://git.npu.world/lecture-cpe/229/-/tree/2024-1) Computer Programming
+- [312](https://git.npu.world/lecture-cpe/312/-/tree/2566-1?ref_type=heads) Computer Organization and Architecture
+- [314](https://git.npu.world/lecture-cpe/314/-/tree/2566-1?ref_type=heads) Computer Networks
+- [315](https://git.npu.world/lecture-cpe/315/-/tree/2566-1?ref_type=heads) Computer Networks Laboratory
+
+  
 #### 2023
 
 - [312](https://git.npu.world/lecture-cpe/312/-/tree/2566-1?ref_type=heads) Computer Organization and Architecture
@@ -89,6 +101,8 @@ __Rajamangala University of Technology Thanyaburi , Pathumthani.__
 
 
 ### Academic conferences
+- __Kitisriworapan, S.__. Development of Web Vulnerability Scanner for Kubernetes Infrastructure. In 2024 16th Conference of Electrical Engineering Network 2024 (EENET 2024) (pp. 253-256). EENET. (**Best Paper in Computer and Information Technology**)
+- 
 - __Kitisriworapan, S.__, Jansang, A., & Phonphoem, A. (2019, July). Evil-twin detection on client-side. In 2019 16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) (pp. 697-700). IEEE.
   
 - __Srilasak, S.__, Wongthavarawat, K., Limmongkol, K., & Siwamogsatham, S. (2009, November). Channel assignment strategies of IEEE 802.11 WLAN in a shared public hotspot environment. In 2009 International Conference on Wireless Communications & Signal Processing (pp. 1-5). IEEE.
