@@ -104,6 +104,8 @@ __Rajamangala University of Technology Thanyaburi , Pathumthani.__
   
 - __Kitisriworapan, S.__, Jansang, A., & Phonphoem, A. (2019, July). Evil-twin detection on client-side. In 2019 16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) (pp. 697-700). IEEE.
   
+- Srisuk, S., Suwannapong, C., __Kitisriworapan, S.__, Kaewsong, A., & Ongkittikul, S. (2019, March). Performance evaluation of real-time object detection algorithms. In 2019 7th International Electrical Engineering Congress (iEECON) (pp. 1-4). IEEE.
+
 - __Srilasak, S.__, Wongthavarawat, K., Limmongkol, K., & Siwamogsatham, S. (2009, November). Channel assignment strategies of IEEE 802.11 WLAN in a shared public hotspot environment. In 2009 International Conference on Wireless Communications & Signal Processing (pp. 1-5). IEEE.
 - Siwamogsatham, S., Hiranpruek, K., Luangingkasut, C., & __Srilasak, S.__ (2008, May). Revisiting the impact of encryption on performance of IEEE 802.11 WLAN. In 2008 5th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (Vol. 1, pp. 381-384). IEEE.
 
@@ -111,7 +113,6 @@ __Rajamangala University of Technology Thanyaburi , Pathumthani.__
 
 - __Srilasak, S.__, Wongthavarawat, K., & Phonphoem, A. (2008, April). Integrated wireless rogue access point detection and counterattack system. In 2008 International Conference on Information Security and Assurance (isa 2008) (pp. 326-331). IEEE.
 
-- Srisuk, S., Suwannapong, C., __Kitisriworapan, S.__, Kaewsong, A., & Ongkittikul, S. (2019, March). Performance evaluation of real-time object detection algorithms. In 2019 7th International Electrical Engineering Congress (iEECON) (pp. 1-4). IEEE.
   
 ### Lecture Note
 
