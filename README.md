@@ -30,9 +30,10 @@ __eGuide(Thailand)__, Thailand
 
 Authentication protocol, Privacy protection system, Rogue detection, networks security
 ### Academic Services
-* Nakhon Phanom University Data Protection Committee (Term 2024-2027)
- * Chairs of the Subcommittee on Cookie Policy
- * Chairs of the Subcommittee on Drafting Information Security Policies of Nakhon Phanom University
+* Chief Information Security Officer of Nakhon Phanom University(**CISO**) (Term 2025-Present)
+* Nakhon Phanom University Data Protection Committee (Term 2024-Present)
+* Chairs of the Subcommittee on Cookie Policy (Term 2024-Present)
+* Chairs of the Subcommittee on Drafting Information Security Policies of Nakhon Phanom University
   
 ### Teaching
 
