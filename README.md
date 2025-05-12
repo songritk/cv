@@ -2,7 +2,7 @@
 layout: cv
 title: Songrit Kitisriworapan's CV
 ---
-# [Songrit Kitisriworapan](README.md) | [ทรงฤทธิ์ กิติศรีวรพันธุ์](README-th.md)
+# [Asst.Prof.Songrit Kitisriworapan](README.md) | [ผศ.ดร.ทรงฤทธิ์ กิติศรีวรพันธุ์](README-th.md)
 Engineer, Lecturer, Researcher.
 
 <div id="webaddress">

@@ -2,7 +2,7 @@
 layout: ประวัติย่อ
 title: ประวัติย่อ ทรงฤทธิ์ กิติศรีวรพันธุ์ 
 ---
-# [ทรงฤทธิ์ กิติศรีวรพันธุ์](README-th.md) | [Songrit Kitisriworapan](README.md)  
+# [ผศ.ดร.ทรงฤทธิ์ กิติศรีวรพันธุ์](README-th.md) | [Asst.Prof.Songrit Kitisriworapan](README.md)  
 วิศวกร, ผู้สอน, นักวิจัย.
 
 <div id="webaddress">
