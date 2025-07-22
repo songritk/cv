@@ -26,9 +26,15 @@ __eGuide(Thailand)__, Thailand
 - Network administrators
 
 ## Currently
+
 ### Specialized in
 
 Authentication protocol, Privacy protection system, Rogue detection, networks security
+
+## 🔐 Professional Certifications
+
+[![ISC2 Certified in Cybersecurity](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/6668e478-8b32-40aa-9b28-853dc81d5189/public_url)
+
 ### Academic Services
 * Chief Information Security Officer of Nakhon Phanom University(**CISO**) (Term 2025-Present)
 * Nakhon Phanom University Data Protection Committee (Term 2024-Present)
