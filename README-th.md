@@ -35,6 +35,11 @@ __eGuide(Thailand)__, Thailand
 ### ความเชี่ยวชาญ
 
 กระบวนการพิสูจน์ตัวจริง, ระบบรักษาข้อมูลความเป็นส่วนตัว, การตรวจจับอุปกรณ์เครือข่ายแปลกปลอม, ความปลอดภัยเครือข่ายคอมพิวเตอร์
+
+### ใบรับรองความเชี่ยวชาญ
+
+[![ISC2 Certified in Cybersecurity](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/6668e478-8b32-40aa-9b28-853dc81d5189/public_url)
+
 ### งานสอน
 
 #### 2567
