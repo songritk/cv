@@ -7,7 +7,7 @@ Engineer, Lecturer, Researcher.
 
 <div id="webaddress">
 <a href="songrit@npu.ac.th">songrit@npu.ac.th</a>
-| <a href="https://github.com/songritk">My github repository</a>
+| <a href="https://github.com/songritk?tab=repositories">My github repository/contributions</a>
 </div>
 
 ## Professional experience
