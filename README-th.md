@@ -89,6 +89,8 @@ __มหาวิทยาลัยเทคโนโลยีราชมงค
 <!-- A list is also available [online](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=Songrit+srilasak&btnG=) -->
 <!-- A list is also available [online](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=Songrit+kitisriworapan&btnG=) -->
 ### วารสาร
+`2025`
+- __ทรงฤทธิ์ กิติศรีวรพันธุ์__, ณัฐวัตร แพงแสน . การพัฒนาระบบกระจายเอกสารพีดีเอฟอัตโนมัติด้วยการบูรณาการโอซีอาร์และการเทียบเคียงฐานข้อมูลพนักงานเพื่อการแจ้งรายบุคคล. วารสารงานวิจัยและพัฒนาเชิงประยุกต์ (ECTI-ARD), 5(3), 39-46.
 
 `2022`
 - Jaikaeo, C., Jansang, A., Li-On, S., __Kitisriworapan, S.__, Tangtrongpairoj, W., Phonphoem, A., ... & Blanchard, M. (2022). Design and Field Test of a Low-cost Device for Real-time Livestock Tracking Using GPS/LoRa Communication. Applied Engineering in Agriculture, 38(6), 885-901.
