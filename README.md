@@ -107,18 +107,14 @@ __Rajamangala University of Technology Thanyaburi , Pathumthani.__
 - __Kitisriworapan, S.__, Jansang, A., & Phonphoem, A. (2020). Client-side rogue access-point detection using a simple walking strategy and round-trip time analysis. EURASIP Journal on Wireless Communications and Networking, 2020(1), 1-24.
 
 ### Academic conferences
-- __Kitisriworapan, S.__. Development of Web Vulnerability Scanner for Kubernetes Infrastructure. In 2024 16th Conference of Electrical Engineering Network 2024 (EENET 2024) (pp. 253-256). EENET. (**Best Paper in Computer and Information Technology**)
-  
-- __Kitisriworapan, S.__, Jansang, A., & Phonphoem, A. (2019, July). Evil-twin detection on client-side. In 2019 16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) (pp. 697-700). IEEE.
-  
-- Srisuk, S., Suwannapong, C., __Kitisriworapan, S.__, Kaewsong, A., & Ongkittikul, S. (2019, March). Performance evaluation of real-time object detection algorithms. In 2019 7th International Electrical Engineering Congress (iEECON) (pp. 1-4). IEEE.
 
-- __Srilasak, S.__, Wongthavarawat, K., Limmongkol, K., & Siwamogsatham, S. (2009, November). Channel assignment strategies of IEEE 802.11 WLAN in a shared public hotspot environment. In 2009 International Conference on Wireless Communications & Signal Processing (pp. 1-5). IEEE.
-- Siwamogsatham, S., Hiranpruek, K., Luangingkasut, C., & __Srilasak, S.__ (2008, May). Revisiting the impact of encryption on performance of IEEE 802.11 WLAN. In 2008 5th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (Vol. 1, pp. 381-384). IEEE.
-
-- Siwamogsatham, __S., Srilasak__, S., Limmongkol, K., & Wongthavarawat, K. (2008, April). Encryption vs. performance of infrastructure IEEE 802.11 WLANs. In 2008 Wireless Telecommunications Symposium (pp. 405-408). IEEE.
-
-- __Srilasak, S.__, Wongthavarawat, K., & Phonphoem, A. (2008, April). Integrated wireless rogue access point detection and counterattack system. In 2008 International Conference on Information Security and Assurance (isa 2008) (pp. 326-331). IEEE.
+* **Kitisriworapan, S.**. Development of Web Vulnerability Scanner for Kubernetes Infrastructure. In 2024 16th Conference of Electrical Engineering Network 2024 (EENET 2024) (pp. 253-256). EENET. (**Best Paper in Computer and Information Technology**)
+* **Kitisriworapan, S.**, Jansang, A., & Phonphoem, A. (2019, July). Evil-twin detection on client-side. In 2019 16th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) (pp. 697-700). IEEE.
+* Srisuk, S., Suwannapong, C., **Kitisriworapan, S.**, Kaewsong, A., & Ongkittikul, S. (2019, March). Performance evaluation of real-time object detection algorithms. In 2019 7th International Electrical Engineering Congress (iEECON) (pp. 1-4). IEEE.
+* **Srilasak, S.**, Wongthavarawat, K., Limmongkol, K., & Siwamogsatham, S. (2009, November). Channel assignment strategies of IEEE 802.11 WLAN in a shared public hotspot environment. In 2009 International Conference on Wireless Communications & Signal Processing (pp. 1-5). IEEE.
+* **Srilasak, S.**, Wongthavarawat, K., & Phonphoem, A. (2008, April). Integrated wireless rogue access point detection and counterattack system. In 2008 International Conference on Information Security and Assurance (isa 2008) (pp. 326-331). IEEE.
+* Siwamogsatham, **S., Srilasak**, S., Limmongkol, K., & Wongthavarawat, K. (2008, April). Encryption vs. performance of infrastructure IEEE 802.11 WLANs. In 2008 Wireless Telecommunications Symposium (pp. 405-408). IEEE.
+* Siwamogsatham, S., Hiranpruek, K., Luangingkasut, C., & **Srilasak, S.** (2008, May). Revisiting the impact of encryption on performance of IEEE 802.11 WLAN. In 2008 5th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (Vol. 1, pp. 381-384). IEEE.
 
   
 ### Lecture Note
